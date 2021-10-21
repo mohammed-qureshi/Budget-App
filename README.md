@@ -1,4 +1,4 @@
 # Budget-App
-Python Project, 
+Python Project,  
 Takes a budget cateogory and
 lets users add or remove money from the category
